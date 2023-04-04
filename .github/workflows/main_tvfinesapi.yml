@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TvFinesAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_403A8B3D4C19439CB9F6B7BB3EACAF53 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D271378DD8747DC9692C6B725FBF1A9 }}
           package: .
